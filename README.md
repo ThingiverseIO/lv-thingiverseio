@@ -20,3 +20,9 @@ You will also need a compiled version of the [ThingiverseIO library](https://git
 Download the VIPM package from 
 
     https://github.com/ThingiverseIO/lv-thingiverseio/releases/download/1.0.0/lv_thingiverseio-0.1.0.30.vip
+    
+# Usage
+
+See the "Event Input.vit" and "Output.vit" in the "Template" folder. If you have installed the VIPM package, you see them when you select File -> New... -> From Template in Labview.
+
+Stay tuned for more detailed instructions or write me a message.
